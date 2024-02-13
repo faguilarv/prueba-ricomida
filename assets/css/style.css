@@ -1,0 +1,62 @@
+.navbar-brand {
+  font-family: 'Lobster', sans-serif;
+  font-size: 37px;
+}
+
+.nav-link {
+  font-family: 'Cabin', sans-serif;
+  font-size: 16px;
+}
+
+/*h1 {
+    font-weight: bold;
+    font-size: 50px;
+    color: #373A3C;  
+    margin-top: 1rem;
+}
+    */
+
+/*.imagen-espacio{
+    width: 550px;
+    margin-top: 1rem;   
+    margin-left: 4rem; 
+    margin-bottom: 2rem;
+  } */
+
+#botontext {
+  padding: 3rem;
+}
+
+.receta1-ingredientes {
+  font-family: 'Cabin', sans-serif;
+  font-size: 2rem;
+}
+
+.receta2-preparación {
+  font-family: 'Cabin', sans-serif;
+  font-size: 2rem;
+  padding: 2rem;
+}
+
+.receta {
+  font-family: 'Cabin', sans-serif;
+  font-size: 20px;
+}
+
+.card:hover {
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+  transform: translateY(-3%);
+}
+
+h2 {
+  padding-top: 5rem;
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+
+#letter-ricomida {
+  font-family: 'Lobster', sans-serif;
+  font-size: 30px;
+}
