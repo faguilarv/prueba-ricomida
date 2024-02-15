@@ -56,7 +56,26 @@ h2 {
 }
 
 
+.rectangulo {
+  width: 1702px;
+  height: 702px;
+  background-color: #DC3545;
+  margin: auto;
+}
+
 #letter-ricomida {
   font-family: 'Lobster', sans-serif;
   font-size: 30px;
+}
+
+.pie_pagina {
+  width: 1702px;
+  height: 160px;
+  background-color: #373A3C;
+  margin: auto;
+}
+
+.ricologo {
+  font-family: 'Lobster', sans-serif;
+  font-size: 40px;
 }
